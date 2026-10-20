@@ -20,6 +20,8 @@
 
 ### 2026-10-19 – Work session
 
+Made the main schematic, learning how to put switches with resistors in a grid. Also learned how to wire up a rotary encoder and slapped that on the design as well. Finished with the main design for now, next part is the footprint and routing!
+
 **1.02h**
 
 [Timelapse](https://lookout.hackclub.com/api/media/7e4592c8-a1e0-43ef-9901-33bde8b89476/video.mp4)
